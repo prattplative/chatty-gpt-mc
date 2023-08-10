@@ -38,8 +38,6 @@ class CreateChat extends HTMLElement {
 
 <div id="main-content" class="mx-auto max-w-4xl px-8 sm:px-6 py-6">
 
-  <h1 class="text-2xl font-semibold text-gray-900">Create a new Chat</h1>
-
   <form class="space-y-8">
     <div>
 
